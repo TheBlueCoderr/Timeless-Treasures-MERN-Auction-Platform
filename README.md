@@ -1,10 +1,8 @@
 # FinalSubmission
-Timeless Treasures is a real-time online auction platform for vintage and antique collectibles. With a role-based system, auctioneers can manage listings, while bidders place live bids seamlessly. Razorpay-secured transactions ensure safe payments, and the elegant, antique-inspired design enhances the experience. 
-
 
 Timeless Treasures - Online Auction Platform
 
-Timeless Treasures is a real-time, role-based, secure, and authenticated online auction platform designed for seamless bidding and auctioning of antique and vintage items. It ensures a secure and engaging auction experience with real-time updates and strict authentication mechanisms.
+Timeless Treasures is a real-time online auction platform for vintage and antique collectibles. With a role-based system, auctioneers can manage listings, while bidders place live bids seamlessly. Razorpay-secured transactions ensure safe payments, and the elegant, antique-inspired design enhances the experience. 
 
 🚀 Features
 
