@@ -1,4 +1,4 @@
-# FinalSubmission
+# Timeless-Treasures-MERN-Auction-Platform
 
 Timeless Treasures - Online Auction Platform
 
